@@ -1,0 +1,6 @@
+{
+  "name": "ImaranFlix",
+  "description": "A clean, dark-themed Netflix-like movie and series streaming client using Jetpack Compose, Material 3, and integrated with TMDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
